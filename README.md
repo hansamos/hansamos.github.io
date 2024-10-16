@@ -1,7 +1,7 @@
 
 1. I have so much to write about, but not enough time to do it.  For now, let's stick to my future papers.
 2. I will cover everything that I find interesting specially about Bayesian workflow.
-3. Thanks to my years of PhD, I have a better appreciation for determistic methods (applied math). So I should write about as well.
+3. Thanks to my years of PhD, I have a better appreciation for deterministic methods (applied math). So I should write about as well.
    
 See you in some months. 
 
