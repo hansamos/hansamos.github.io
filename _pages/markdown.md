@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /misc/
 title: "Podcasts"
 author_profile: true
 redirect_from: 
@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-This will be a serie of interview with very intersting people. Stay tuned
+This will be a series of interviews with very interesting people. Stay tuned
