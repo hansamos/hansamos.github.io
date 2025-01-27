@@ -9,37 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, [KAUST](https://stat.kaust.edu.sa/), 2026 (expected)
+* M.S. in Statistics, [USP-UfScar](https://www.pipges.ufscar.br/pt-br), 2021
+* B.S. in Applied Math, [FURG](https://www.furg.br/graduacao/matematica-aplicada), 2016
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **[Transunion](https://transunion.com) (Jan 20 - Aug 22): Data Scientist**
+  * Developed credit score, Collection, Fraud prevention, Insurance risk models and
+  Income prediction models for financial, retail and insurance institutions in Brazil 
+  * Structured queries to create new set of attributes
+  * Structured template for deploying ML models using Flask framework
+  * RD: Research on applications of unsupervised and Bayesian deep learning methods to credit data. 
+  * **Techs**: R, Python, SQL, Spark, Hive, Github.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* **[PART Lab-KAUST](https://part.kaust.edu.sa/) (Aug 21- Dec 21):  Visiting Student Researcher**
+  * Machine Unlearning: unlearn deep learning model without retraining from scratch.
+  * Supervisor: Dr Di Wang
+  * **Techs**: Python (Pytorch mainly), Github.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* **[Small Lab - UfScar](https://part.kaust.edu.sa/) (Feb 19- Dec 19):  Visiting Student Researcher**
+  * Goodness of fit using the nonparametric full Bayesian Significance Test.
+  * Supervisor: Dr Rafael Izbicki, Dr. Luis Salasar
+  * **Techs**: R, Github.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -59,6 +58,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
